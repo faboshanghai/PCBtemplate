@@ -36,4 +36,4 @@ example of a picture hosted on an external website
 
 example of a picture hosted inside your repository
 
-![picture description](../../../example.jpg)
+![picture description](../images/example.jpg)
