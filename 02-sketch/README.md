@@ -26,14 +26,10 @@ example of an external link
 
 [description of the website](https://www.https://www.example.com/)
 
-example of a link inside your repository
-
-[description of the link](/assignment1/readme.md)
-
 example of a picture hosted on an external website
 
 ![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
 
-example of a picture hosted inside your repository
+example of a picture hosted inside your repository (don't forget the ./ operand)
 
-![picture description](/images/example.jpg)
+![picture description](./images/example.jpg)

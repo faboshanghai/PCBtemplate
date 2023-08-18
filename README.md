@@ -1,10 +1,9 @@
-# Assignment's Title
+# Student's documentation template
 
-## Assignment's description
-Describe the assignment
+## About
+This is the main README file of your repository, rewrite it with a description of who you are, what are your interests and why you chose this Studio class.
 
-## Documentation
-Describe the work you did to complete the assignment
+### Some Markdown syntax
 
 bullet point list
 * item one
@@ -23,17 +22,18 @@ numbered list
 ***italic and bold text***
 
 example of an external link
+<pre>[description of the website](https://www.https://www.example.com/)</pre>
 
 [description of the website](https://www.https://www.example.com/)
 
-example of a link inside your repository
-
-[description of the link](/assignment1/readme.md)
-
 example of a picture hosted on an external website
+
+<pre>![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)</pre>
 
 ![picture description](https://djmag.com/sites/default/files/storyimages/Clara_Rockmore.jpg)
 
-example of a picture hosted inside your repository
+example of a picture hosted inside the same folder as this readme (don't forget the ./ operand)
 
-![picture description](/images/example.jpg)
+<pre>![picture description](./example.jpg)</pre>
+
+![picture description](./example.jpg)
