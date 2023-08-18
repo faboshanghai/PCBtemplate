@@ -36,4 +36,4 @@ example of a picture hosted on an external website
 
 example of a picture hosted inside your repository
 
-![picture description](/assignments/01sketch/images/example.jpg)
+![picture description](/assignments/01-sketch/images/example.jpg)
